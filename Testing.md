@@ -30,3 +30,29 @@ description [] followed by link ()
 ## using gitDOC
 
 shift+ctrl+p to check
+
+> this is good
+
+---
+
+- **killer**
+- killer _bee_
+
+`code`
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
+---
+
+term
+
+: definition
+: lose
+
+---
+
+hey this is ash... ,
+and
