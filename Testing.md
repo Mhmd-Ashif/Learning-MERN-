@@ -3,7 +3,7 @@
 ## list
 
 1.Monitor
-2.Gaming PC
+2.Gaming PC with 1 lack
 
 ## drag and drop images
 
@@ -26,3 +26,7 @@ console.log(i);
 description [] followed by link ()
 
 [Checkout the more Elements for md using readme.md ](/readme.md)
+
+## using gitDOC
+
+shift+ctrl+p to check
