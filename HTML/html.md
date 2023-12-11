@@ -1,5 +1,5 @@
 # Learning HTML
 
-## Attribute
+## Tags
 
-html
+**tags will give a better structure**
