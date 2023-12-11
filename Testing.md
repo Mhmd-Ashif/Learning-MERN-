@@ -2,7 +2,7 @@
 
 ## list
 
-1.Monitor
+1.Monitor LG
 2.Gaming PC with 1 lack
 
 ## drag and drop images
