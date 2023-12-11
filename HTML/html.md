@@ -2,4 +2,4 @@
 
 ## Tags
 
-**tags will give a better structure**
+**Main use of tags are It will give a better structure**
