@@ -243,7 +243,7 @@ which is passed as a parameter this is called callback hell and it not pretty to
 
 ## 3.Promises
 
-### realword understanding of Promises:
+### realworld understanding of Promises:
 
 1. getting a train ticket which is an `promise` means that you can get a ride
 2. takes a ride `resolve`
